@@ -12,7 +12,7 @@ N/A
 
 This Prework Study Guide can be used by anyone who requires knowledge on the basics of HTML, CSS, Git, and JavaScript, as well as any important information that one must know while developing with these topics in mind. For example, the CSS portion of the study guide will go over what CSS is, essential notation while working with CSS, and linking it with your HTML file.
 
-##Credits
+## Credits
 
 N/A
 
